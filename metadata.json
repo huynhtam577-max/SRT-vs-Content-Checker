@@ -1,0 +1,5 @@
+{
+  "name": "SRT vs Content Checker",
+  "description": "An intelligent tool to compare subtitle files (SRT) against original scripts to identify and correct discrepancies using Gemini AI.",
+  "requestFramePermissions": []
+}
